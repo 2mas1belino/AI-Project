@@ -1,4 +1,4 @@
-# AI-Project
+# Project: Image Classification with Transfer Learning and Data Augmentation
 
 ## What is this project about?
 
