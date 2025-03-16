@@ -21,6 +21,6 @@ This project showcases the impact of transfer learning and data augmentation on 
 **Classification:** 16.1/20
 
 **Project developed by:**
-Tomás Umbelino
+Tomás Umbelino and
 Micael Marques
 
